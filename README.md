@@ -5,6 +5,8 @@
 <h3>Myers-Briggs personality test</h3>
   <p>ISFJ:
 
+New branch test test*1
+
 My personality type test gauged me as an ISFJ which is described as someone who is  dependable, considerate and loyal to those closest to them. Having a firm grasp of the factual realities that lie before you as well as an eye for detail, each of which make you naturally gravitate towards others and their emotional needs. Nurturing and attentive, you tend to be quick to assume responsibility and to help out as soon as you see some task that could aid others. Conscientious, thorough, and perhaps a bit perfectionistic, you are not one to impulsively chase after new and uncertain prospects before having finished the endeavor at hand. You tend to find a deep sense of satisfaction in working hard to achieve your goals and in selflessly supporting others, demonstrating that you care through your actions and preferring to lead by your quiet, dignified example.<p>
   
   
